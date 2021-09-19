@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/dndtracker/static/css/main.e5be51e1.chunk.css",
-    "main.js": "/dndtracker/static/js/main.cc286b35.chunk.js",
-    "main.js.map": "/dndtracker/static/js/main.cc286b35.chunk.js.map",
+    "main.js": "/dndtracker/static/js/main.af065941.chunk.js",
+    "main.js.map": "/dndtracker/static/js/main.af065941.chunk.js.map",
     "runtime-main.js": "/dndtracker/static/js/runtime-main.c371098a.js",
     "runtime-main.js.map": "/dndtracker/static/js/runtime-main.c371098a.js.map",
     "static/js/2.c2dd9cf3.chunk.js": "/dndtracker/static/js/2.c2dd9cf3.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.c371098a.js",
     "static/js/2.c2dd9cf3.chunk.js",
     "static/css/main.e5be51e1.chunk.css",
-    "static/js/main.cc286b35.chunk.js"
+    "static/js/main.af065941.chunk.js"
   ]
 }
